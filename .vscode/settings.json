@@ -1,0 +1,8 @@
+{
+  "cSpell.words": ["tailwindcss", "uuidv", "ZUMO"],
+  "cSpell.language": "en,pl",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "jest.autoRun": {}
+}
